@@ -53,20 +53,6 @@
             />
 
         <Button
-            android:id="@+id/btn_start_monitoring"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/start_monitoring"
-            />
-
-        <Button
-            android:id="@+id/btn_stop_monitoring"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/stop_monitoring"
-            />
-
-        <Button
             android:id="@+id/btn_disconnect"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
